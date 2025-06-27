@@ -1,0 +1,1047 @@
+{
+    "1+2(2x-1)=7": [
+        [
+            "cancel-const",
+            "combine-like-const",
+            "subtraction-const",
+            "division-simple",
+            "divide",
+            "division-complex"
+        ]
+    ],
+    "7-x=2": [
+        [
+            "subtraction-const"
+        ],
+        [
+            "cancel-const"
+        ],
+        [
+            "combine-like-const"
+        ],
+        [
+            "division-simple"
+        ],
+        [
+            "divide"
+        ],
+        [
+            "divide"
+        ]
+    ],
+    "10=5+x": [
+        [
+            "combine-like-const",
+            "cancel-const",
+            "subtraction-const"
+        ]
+    ],
+    "9=4+x": [
+        [
+            "cancel-const",
+            "subtraction-const",
+            "combine-like-const"
+        ]
+    ],
+    "6-x=3": [
+        [
+            "subtraction-const"
+        ],
+        [
+            "cancel-const",
+            "combine-like-const"
+        ],
+        [
+            "division-simple"
+        ],
+        [
+            "divide"
+        ]
+    ],
+    "3-x=7": [
+        [
+            "cancel-const",
+            "subtraction-const"
+        ]
+    ],
+    "8=-x+2": [
+        [
+            "subtraction-const"
+        ],
+        [
+            "cancel-const",
+            "combine-like-const"
+        ],
+        [
+            "division-simple"
+        ],
+        [
+            "divide"
+        ]
+    ],
+    "10=-x+5": [
+        [
+            "cancel-const",
+            "combine-like-const",
+            "subtraction-const"
+        ],
+        [
+            "division-simple",
+            "divide"
+        ]
+    ],
+    "13=-x+6": [
+        [
+            "subtraction-const"
+        ],
+        [
+            "cancel-const",
+            "combine-like-const"
+        ],
+        [
+            "division-simple"
+        ],
+        [
+            "divide"
+        ]
+    ],
+    "1+x=3": [
+        [
+            "subtraction-const",
+            "cancel-const"
+        ],
+        [
+            "combine-like-const"
+        ]
+    ],
+    "-2x=-6": [
+        [
+            "division-simple",
+            "divide"
+        ]
+    ],
+    "-6=-2x": [
+        [
+            "division-simple"
+        ],
+        [
+            "divide"
+        ]
+    ],
+    "7x=14": [
+        [
+            "division-simple"
+        ],
+        [
+            "divide"
+        ]
+    ],
+    "-16=-2x": [
+        [
+            "division-simple"
+        ],
+        [
+            "divide"
+        ]
+    ],
+    "-5x=15": [
+        [
+            "division-simple",
+            "divide"
+        ]
+    ],
+    "3x=9": [
+        [
+            "division-simple",
+            "divide"
+        ],
+        [
+            "divide"
+        ]
+    ],
+    "6x=12": [
+        [
+            "division-simple"
+        ],
+        [
+            "divide"
+        ]
+    ],
+    "2(-3+7x)=8": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide",
+            "division-complex"
+        ]
+    ],
+    "11=-2x+5 solver": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const"
+        ],
+        [
+            "division-simple",
+            "divide"
+        ]
+    ],
+    "10=-2(2x+1)": [
+        [
+            "divide",
+            "division-complex",
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple"
+        ]
+    ],
+    "1=9-x": [
+        [
+            "cancel-const",
+            "subtraction-const"
+        ],
+        [
+            "combine-like-const"
+        ]
+    ],
+    "5-x=6": [
+        [
+            "cancel-const",
+            "combine-like-const",
+            "subtraction-const"
+        ]
+    ],
+    "6x=18": [
+        [
+            "division-simple"
+        ],
+        [
+            "divide"
+        ]
+    ],
+    "10=-2x": [
+        [
+            "division-simple",
+            "divide"
+        ],
+        [
+            "divide"
+        ]
+    ],
+    "20=-4x": [
+        [
+            "division-simple"
+        ],
+        [
+            "divide"
+        ]
+    ],
+    "6-x=3 solver": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const"
+        ],
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const"
+        ]
+    ],
+    "9=4+x solver": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const"
+        ]
+    ],
+    "-16=-2x solver": [
+        [
+            "division-simple",
+            "divide"
+        ],
+        [
+            "division-simple",
+            "divide"
+        ]
+    ],
+    "18=3x solver": [
+        [
+            "division-simple",
+            "divide"
+        ],
+        [
+            "division-simple",
+            "divide"
+        ]
+    ],
+    "7x=14 solver": [
+        [
+            "division-simple",
+            "divide"
+        ],
+        [
+            "division-simple",
+            "divide"
+        ]
+    ],
+    "8+x=1": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const"
+        ]
+    ],
+    "16=-8x": [
+        [
+            "divide",
+            "division-simple"
+        ]
+    ],
+    "3x-1=-10": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide"
+        ]
+    ],
+    "11=-2x+5": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide"
+        ]
+    ],
+    "7x+15=1": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide"
+        ]
+    ],
+    "15=4x+3": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide"
+        ]
+    ],
+    "-2x+4=0 solver": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide"
+        ]
+    ],
+    "4x-1=-9": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide"
+        ]
+    ],
+    "-2x+4=0": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide"
+        ]
+    ],
+    "2x-3=7": [
+        [
+            "subtraction-const"
+        ],
+        [
+            "combine-like-const",
+            "cancel-const"
+        ],
+        [
+            "division-simple"
+        ],
+        [
+            "divide"
+        ]
+    ],
+    "-4x+5=1": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide"
+        ]
+    ],
+    "18=3x": [
+        [
+            "divide",
+            "division-simple"
+        ]
+    ],
+    "-2x-5=5": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide"
+        ]
+    ],
+    "10=2(2x+1) solver": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide",
+            "division-complex"
+        ]
+    ],
+    "15=3(1+x) solver": [
+        [
+            "division-complex",
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "divide"
+        ]
+    ],
+    "-2(2x-1)=6": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide",
+            "division-complex"
+        ]
+    ],
+    "3(3x+1)=21": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide",
+            "division-complex"
+        ]
+    ],
+    "3(-2+x)=9": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "divide",
+            "division-complex"
+        ]
+    ],
+    "-2(x+1)=6": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "divide",
+            "division-complex"
+        ]
+    ],
+    "20=5(x-1)": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "divide",
+            "division-complex"
+        ]
+    ],
+    "3(-x-2)=9": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "divide",
+            "division-complex"
+        ]
+    ],
+    "-4(2x-3)=4": [
+        [
+            "divide",
+            "division-complex",
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple"
+        ]
+    ],
+    "5(-2+2x)=20": [
+        [
+            "cancel-const",
+            "division-simple",
+            "divide",
+            "division-complex",
+            "subtraction-const",
+            "combine-like-const"
+        ]
+    ],
+    "7(x-6)+4=-24": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "divide",
+            "division-complex"
+        ]
+    ],
+    "18=-2+4(x-1)": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "divide",
+            "division-complex"
+        ]
+    ],
+    "10=-3(2x+2)-8": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide",
+            "division-complex"
+        ]
+    ],
+    "10=1+3(x-4)": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "divide",
+            "division-complex"
+        ]
+    ],
+    "4+3(-1+x)=7": [
+        [
+            "division-complex",
+            "cancel-const",
+            "combine-like-const",
+            "subtraction-const",
+            "divide"
+        ]
+    ],
+    "-6(1+x)+8=-4": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "divide",
+            "division-complex"
+        ]
+    ],
+    "x+9=4x": [
+        [
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ],
+    "-4x=2x+6": [
+        [
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ],
+    "10x-6=4x": [
+        [
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ],
+        [
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ],
+    "3x-9=-6x": [
+        [
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ],
+    "7x=2x-10": [
+        [
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ],
+    "3x+10=5x": [
+        [
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ],
+    "10=-2(2x+1) solver": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide",
+            "division-complex"
+        ]
+    ],
+    "10=1+3(x-4)_ng": [
+        [
+            "cancel-const",
+            "combine-like-const",
+            "subtraction-const",
+            "division-complex"
+        ],
+        [
+            "division-complex"
+        ],
+        [
+            "divide"
+        ],
+        [
+            "cancel-const",
+            "combine-like-const",
+            "subtraction-const",
+            "division-complex"
+        ]
+    ],
+    "3x-1=-10 solver": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const"
+        ],
+        [
+            "division-simple",
+            "divide"
+        ]
+    ],
+    "-3x-1=-10": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide"
+        ]
+    ],
+    "7=-1+2x": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide"
+        ]
+    ],
+    "5x+10=0": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide"
+        ]
+    ],
+    "16=-4(x-2)": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "divide",
+            "division-complex"
+        ]
+    ],
+    "15=-3(1+x)": [
+        [
+            "divide",
+            "division-complex",
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const"
+        ]
+    ],
+    "2-3(x+2)=11": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "divide",
+            "division-complex"
+        ]
+    ],
+    "5=3-2(x-2)": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "divide",
+            "division-complex"
+        ]
+    ],
+    "-2(x-3)+6=14": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "divide",
+            "division-complex"
+        ]
+    ],
+    "5(-6+x)-1=-16": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "divide",
+            "division-complex"
+        ]
+    ],
+    "-12x=-2x+20": [
+        [
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ],
+        [
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ],
+    "4x+3=7x": [
+        [
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ],
+    "-2x+6=-3x": [
+        [
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ],
+    "5x=3x+10": [
+        [
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ],
+    "-6x=-2x+8": [
+        [
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ],
+    "2x+1=5x+10": [
+        [
+            "cancel-const",
+            "combine-like-const",
+            "subtraction-const",
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ],
+        [
+            "cancel-const",
+            "combine-like-const",
+            "subtraction-const",
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ],
+    "-18-11x=-3-6x": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ],
+    "4x-10=-x+10": [
+        [
+            "cancel-const",
+            "combine-like-const",
+            "subtraction-const",
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ],
+    "1=-2(3x+4)+15": [
+        [
+            "cancel-const",
+            "division-simple",
+            "divide",
+            "division-complex",
+            "subtraction-const",
+            "combine-like-const"
+        ]
+    ],
+    "10=-x+5 solver": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const"
+        ]
+    ],
+    "-2x+2=-5x+8": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ],
+    "-2x+3=-6x+11": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ],
+    "3x-4=x+6": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ],
+    "-10-7x=-1-4x": [
+        [
+            "cancel-const",
+            "combine-like-const",
+            "subtraction-const",
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ],
+    "15=4x-1": [
+        [
+            "cancel-const",
+            "combine-like-const",
+            "subtraction-const",
+            "division-simple",
+            "divide"
+        ]
+    ],
+    "8x-9=5x": [
+        [
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ],
+    "-4x+10=2x-2": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ],
+    "9x-3=-3x+21": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ],
+    "3x+13=2x+6": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ],
+    "-12x=-2x+20 solver": [
+        [
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ],
+    "-2x+6=-3x solver": [
+        [
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ],
+    "12x=2x+20 solver": [
+        [
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ],
+    "-2(x-3)+6=14 solver": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "divide",
+            "division-complex"
+        ]
+    ],
+    "-6(1+x)+8=-4 solver": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "divide",
+            "division-complex"
+        ]
+    ],
+    "10=3(2x+2)-8 solver": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide",
+            "division-complex"
+        ]
+    ],
+    "-10-7x=-1-4x solver": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ],
+    "-12-6x=-3-3x solver": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ],
+    "-18-11x=-3-6x solver": [
+        [
+            "subtraction-const",
+            "combine-like-const",
+            "cancel-const",
+            "division-simple",
+            "divide",
+            "cancel-var",
+            "combine-like-var",
+            "subtraction-var"
+        ]
+    ]
+}

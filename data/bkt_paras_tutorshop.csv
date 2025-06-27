@@ -1,0 +1,11 @@
+Skill name,Category,P-Known,P-Learn,P-Guess,P-Slip
+subtraction-var,transformation,0.25,0.2,0.2,0.1
+subtraction-const,transformation,0.25,0.2,0.2,0.1
+division-simple,transformation,0.25,0.2,0.2,0.1
+division-complex,transformation,0.25,0.2,0.2,0.1
+combine-like-var,simplification,0.25,0.2,0.2,0.1
+combine-like-const,simplification,0.25,0.2,0.2,0.1
+divide,simplification,0.25,0.2,0.2,0.1
+cancel-var,simplification,0.25,0.2,0.2,0.1
+cancel-const,simplification,0.25,0.2,0.2,0.1
+
